@@ -1,7 +1,7 @@
 ﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Scadere");
+Console.WriteLine("Inmultire");
 int a = 10;
 int b = 20;
-int scadere = a - b;
-Console.WriteLine(scadere);
+int inmultire = a * b;
+Console.WriteLine(inmultire);
 
